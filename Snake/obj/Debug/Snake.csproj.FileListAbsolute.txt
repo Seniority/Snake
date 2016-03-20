@@ -1,14 +1,4 @@
-C:\Users\Licensed user\Desktop\Programming\C# Projects\Snake\Snake\bin\Debug\Snake.exe.config
-C:\Users\Licensed user\Desktop\Programming\C# Projects\Snake\Snake\bin\Debug\Snake.exe
-C:\Users\Licensed user\Desktop\Programming\C# Projects\Snake\Snake\bin\Debug\Snake.pdb
-C:\Users\Licensed user\Desktop\Programming\C# Projects\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
-C:\Users\Licensed user\Desktop\Programming\C# Projects\Snake\Snake\obj\Debug\Snake.Form1.resources
-C:\Users\Licensed user\Desktop\Programming\C# Projects\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
-C:\Users\Licensed user\Desktop\Programming\C# Projects\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
-C:\Users\Licensed user\Desktop\Programming\C# Projects\Snake\Snake\obj\Debug\Snake.exe
-C:\Users\Licensed user\Desktop\Programming\C# Projects\Snake\Snake\obj\Debug\Snake.pdb
-C:\Users\Licensed user\Desktop\Programming\C# Projects\Snake\Snake\bin\Debug\Interop.WMPLib.dll
-C:\Users\Licensed user\Desktop\Programming\C# Projects\Snake\Snake\bin\Debug\AxInterop.WMPLib.dll
-C:\Users\Licensed user\Desktop\Programming\C# Projects\Snake\Snake\obj\Debug\Interop.WMPLib.dll
-C:\Users\Licensed user\Desktop\Programming\C# Projects\Snake\Snake\obj\Debug\AxInterop.WMPLib.dll
-C:\Users\Licensed user\Desktop\Programming\C# Projects\Snake\Snake\obj\Debug\Snake.csproj.ResolveComReference.cache
+C:\Users\Anthony\Desktop\Programming\C# Projects\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Anthony\Desktop\Programming\C# Projects\Snake\Snake\obj\Debug\Interop.WMPLib.dll
+C:\Users\Anthony\Desktop\Programming\C# Projects\Snake\Snake\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Anthony\Desktop\Programming\C# Projects\Snake\Snake\obj\Debug\Snake.csproj.ResolveComReference.cache
